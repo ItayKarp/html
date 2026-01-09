@@ -4,3 +4,4 @@ function finalPrice(price, discount){
 console.log(finalPrice(200, 10));
 console.log(finalPrice(250, 5));
 console.log(finalPrice(500, 50));
+fuck this 
