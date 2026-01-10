@@ -1,6 +1,9 @@
-function finalPrice(price, discount){
-    return price * (1 - discount / 100);
+for (i = 10; i >=0; i--){
+    switch(i){
+        case 0:
+            console.log("Blast off!");
+            break
+        default:
+            console.log(i);
+    }
 }
-console.log(finalPrice(200, 10));
-console.log(finalPrice(250, 5));
-console.log(finalPrice(500, 50));
